@@ -1,6 +1,7 @@
 🚀 On a journey to learn JS atm. 
     🚀 Pet project: Build a GitHub clone.
         🚀 Pet Pet Project: Have fun. 
+              🚀Long-Term Goal: Get a new job as a frontend dev.
 
 
 <!---
