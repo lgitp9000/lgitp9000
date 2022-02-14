@@ -3,6 +3,7 @@
         🚀 Pet Pet Project: Have fun. 
               🚀Long-Term Goal: Get a new job as a frontend developer.
                     🚀Also: React
+                           🚀Also: P5.js
 
 
 <!---
